@@ -1,0 +1,17 @@
+{
+  "name": "shion/janken",
+  "authors": [
+    {
+      "name": "xahagiwara",
+      "email": "s.hagiwara@xearts.jp"
+    }
+  ],
+  "require": {
+    "cboden/ratchet": "^0.4.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "MyApp\\": "src"
+    }
+  }
+}
